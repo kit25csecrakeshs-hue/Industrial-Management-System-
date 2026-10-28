@@ -1,0 +1,6 @@
+{
+  "name": "Industrial Management System",
+  "description": "Comprehensive industrial operations platform for managing personnel, inventory materials, production batch lifecycles, suppliers, and operational reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
